@@ -1,2 +1,2 @@
 console.error("HELP")
-console.error("Error")
+console.log("Error")
